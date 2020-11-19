@@ -1,0 +1,9 @@
+<?
+require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetTitle("Members");
+?><?$APPLICATION->IncludeComponent(
+	"custom:test.comp",
+	"",
+Array()
+);?><br>
+<br><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

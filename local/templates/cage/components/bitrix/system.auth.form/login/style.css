@@ -1,0 +1,24 @@
+div.bx-system-auth-form span.bx-auth-secure {
+    display: inline-block;
+    padding: 2px;
+    margin-top: -1px;
+
+    vertical-align: bottom;
+
+    border: 1px solid #dedbc8;
+    background-color: #fffae3;
+}
+div.bx-system-auth-form div.bx-auth-secure-icon {
+    width: 19px;
+    height: 18px;
+
+    background-image: url(images/sec.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+div.bx-system-auth-form div.bx-auth-secure-unlock {
+    background-image: url(images/sec-unlocked.png);
+}table {
+
+    text-align: center;
+}

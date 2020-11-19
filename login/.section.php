@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Логин";
+$arDirProperties = Array(
+
+);
+?>
